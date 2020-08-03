@@ -2,8 +2,8 @@
 
 In this repository we introduce VBA, the best way to automate Microsoft Excel.
 
-## Overview of Project
 
+## Overview of Project
 
 ### Goal
 
@@ -25,7 +25,15 @@ An efficient program uses a low amount of resources regarding computer hardware.
 
 To run even faster code, I would recommend trying different methods and keeping note of the run times. It may even be a good idea to run every macro several hundred times, and to keep a running average of the macro, giving a better indicator of the true efficiency of the programming technique or method.
 
+![2018 StockAnalysis](https://user-images.githubusercontent.com/68082808/89144667-58923980-d51c-11ea-93ac-6905adc4db25.png)
+
+![2017 StockAnalysis](https://user-images.githubusercontent.com/68082808/89144671-5a5bfd00-d51c-11ea-89ff-140f47836cfe.png)
+
+Our VBA macro can be run at the click of a button! A quick look at the .xlsm file and one can find several buttons. The first button runs a macro called AllStocksAnalysisRefactored(), which crunches all the numbers for analysis. The second button, Format, runs a simple macro which formats the excel spreadsheet to promote visual communication with the user. The last button, Clear, runs a program which clears the Analysis sheet of the excel file in case the user wants to run an analysis on a different set of data. All three buttons, and all three macros are built with efficiency and friendliness in mind!
+
+
 ## Summary
 
 It is always beneficial to be handy with programming languages that promote efficiency such as VBA. One should always strive to make their code as readable ass possible. Furthermore, it is incredibly helpful to leave comments throughout your program to explain to a future reader how and why the program works. Still keep in mind, a good program does not need to be exclusively explained through comments and that your code should be intuitively deciphered. Which leads us to our final subject of the day, the importance of code quality. That means that your code is not only efficient, but reliable. Efficiency directly relates to software performance and speed. Reliability is the ability to perform the operations consistently without failure every time the program runs. When writing the macro scripts for this VBA objects, my team had to consider that perhaps users would want to run analytics on not just one, but several different related spreadsheets, this made our program a little more robust (not that it wasn’t at first), promoting its value and utility. Furthermore, good code must also be maintainable, such that its easy to include new, or edit existing features.
+
 The attributes of a good program will come with time and exercise, welcome to the world of programming!
