@@ -19,7 +19,8 @@ Give a few authors a story to write, and each of them will have their own way of
 Firstly, by including comments, anyone who looks at my program (including myself!) can have a better understanding of what each part of the program is doing. This makes the editing process much faster.
 An efficient program uses a low amount of resources regarding computer hardware. After taking several steps to ensure a speedy run, these were our time stamps for both analyses.
 
-![2018 Run Time](https://user-images.githubusercontent.com/68082808/89143198-cbe57c80-d517-11ea-9b80-6f5ba0fb6574.png)
+![2018 Run Time](https://user-images.githubusercontent.com/68082808/89144498-f6393900-d51b-11ea-9517-4a6c05f1e4f3.png)
+
 ![2017 Run Time](https://user-images.githubusercontent.com/68082808/89143214-d273f400-d517-11ea-8499-fb41d46c84c0.png)
 
 To run even faster code, I would recommend trying different methods and keeping note of the run times. It may even be a good idea to run every macro several hundred times, and to keep a running average of the macro, giving a better indicator of the true efficiency of the programming technique or method.
