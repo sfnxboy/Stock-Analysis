@@ -27,7 +27,7 @@ To run even faster code, I would recommend trying different methods and keeping 
 
 ![2018 StockAnalysis](https://user-images.githubusercontent.com/68082808/89144667-58923980-d51c-11ea-93ac-6905adc4db25.png)
 
-![2017 StockAnalysis](https://user-images.githubusercontent.com/68082808/89144671-5a5bfd00-d51c-11ea-89ff-140f47836cfe.png)
+![2017 StockAnalysis](https://user-images.githubusercontent.com/68082808/89211098-4a313580-d58f-11ea-81a6-16c465433de9.png)
 
 Our VBA macro can be run at the click of a button! A quick look at the .xlsm file and one can find several buttons. The first button runs a macro called AllStocksAnalysisRefactored(), which crunches all the numbers for analysis. The second button, Format, runs a simple macro which formats the excel spreadsheet to promote visual communication with the user. The last button, Clear, runs a program which clears the Analysis sheet of the excel file in case the user wants to run an analysis on a different set of data. All three buttons, and all three macros are built with efficiency and friendliness in mind!
 
